@@ -1,0 +1,35 @@
+{
+	"completion": "OK",
+	"parameters": {
+		"identification": {
+			"channel": 0,
+			"session": "196",
+			"signature": "2025596072",
+			"challenge_auth": "d72076a8-62a6-4c74-b1c5-c36358d56d3e"
+		},
+		"step_information": {
+			"question": "Does it have a relationship with sexuality?",
+			"answers": [
+				{
+					"answer": "Yes"
+				},
+				{
+					"answer": "No"
+				},
+				{
+					"answer": "Don't know"
+				},
+				{
+					"answer": "Probably"
+				},
+				{
+					"answer": "Probably not"
+				}
+			],
+			"step": "0",
+			"progression": "0.00000",
+			"questionid": "11380",
+			"infogain": "0.461274"
+		}
+	}
+}

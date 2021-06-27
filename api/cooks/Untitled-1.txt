@@ -1,0 +1,10 @@
+https://en.akinator.com/new_session?
+callback=jQuery34102543973521527093_1621871640510&
+urlApiWs=https://srv2.akinator.com:9319/ws&
+player=website-desktop&
+partner=1&
+uid_ext_session=39ea2af0-bca8-11eb-a873-0cc47a691511&
+frontaddr=MTQ3LjEzNS4xMjkuOTM=&
+childMod=&constraint=ETAT<>'AV'&
+soft_constraint=&
+question_filter=&_=1621871640511

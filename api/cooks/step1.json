@@ -1,0 +1,198 @@
+[{
+	"completion": "OK",
+	"parameters": {
+		"question": "Is it a phone?",
+		"answers": [
+			{
+				"answer": "Yes"
+			},
+			{
+				"answer": "No"
+			},
+			{
+				"answer": "Don't know"
+			},
+			{
+				"answer": "Probably"
+			},
+			{
+				"answer": "Probably not"
+			}
+		],
+		"step": "1",
+		"progression": "19.0345",
+		"questionid": "2191",
+		"infogain": "0.00000",
+		"status_minibase": "0",
+		"options": []
+	}
+}
+,
+{
+	"completion": "OK",
+	"parameters": {
+		"question": "Does it have a screen?",
+		"answers": [
+			{
+				"answer": "Yes"
+			},
+			{
+				"answer": "No"
+			},
+			{
+				"answer": "Don't know"
+			},
+			{
+				"answer": "Probably"
+			},
+			{
+				"answer": "Probably not"
+			}
+		],
+		"step": "2",
+		"progression": "16.2560",
+		"questionid": "1068",
+		"infogain": "0.509395",
+		"status_minibase": "0",
+		"options": []
+	}
+},
+{
+	"completion": "OK",
+	"parameters": {
+		"question": "Is it hung on the wall?",
+		"answers": [
+			{
+				"answer": "Yes"
+			},
+			{
+				"answer": "No"
+			},
+			{
+				"answer": "Don't know"
+			},
+			{
+				"answer": "Probably"
+			},
+			{
+				"answer": "Probably not"
+			}
+		],
+		"step": "3",
+		"progression": "32.9588",
+		"questionid": "1820",
+		"infogain": "0.418620",
+		"status_minibase": "0",
+		"options": []
+	}
+},
+{
+	"completion": "OK",
+	"parameters": {
+		"question": "Can we transport it in a pocket?",
+		"answers": [
+			{
+				"answer": "Yes"
+			},
+			{
+				"answer": "No"
+			},
+			{
+				"answer": "Don't know"
+			},
+			{
+				"answer": "Probably"
+			},
+			{
+				"answer": "Probably not"
+			}
+		],
+		"step": "4",
+		"progression": "25.9885",
+		"questionid": "4733",
+		"infogain": "0.388339",
+		"status_minibase": "0",
+		"options": []
+	}
+},
+{"gameData":{"signature":"1376682983",
+			"session":"732",
+			"step":"1",
+			"stepOfLastProp":"0",
+			"progression":"1.64647",
+			"oldprogression":"0",
+			"completion":"OK"
+		},
+		{
+			"completion": "OK",
+			"parameters": {
+				"elements": [
+					{
+						"element": {
+							"id": "547",
+							"name": "جاك فروست",
+							"id_base": "311179",
+							"proba": "0.847983",
+							"description": "يتحكم في الثلج",
+							"valide_contrainte": "1",
+							"ranking": "10",
+							"pseudo": "none",
+							"picture_path": "partenaire/o/311179__1478603516.jpg",
+							"corrupt": "1",
+							"relative": "0",
+							"award_id": "-1",
+							"flag_photo": "3",
+							"absolute_picture_path": "https://photos.clarinea.fr/BL_12_ar/600/partenaire/o/311179__1478603516.jpg"
+						}
+					},
+					{
+						"element": {
+							"id": "7353",
+							"name": "نظيف",
+							"id_base": "1348246",
+							"proba": "0.117078",
+							"description": "حديقة المرح",
+							"valide_contrainte": "1",
+							"ranking": "27",
+							"pseudo": "X",
+							"picture_path": "partenaire/y/1348246__1515266219.jpg",
+							"corrupt": "1",
+							"relative": "0",
+							"award_id": "-1",
+							"flag_photo": "3",
+							"absolute_picture_path": "https://photos.clarinea.fr/BL_12_ar/partenaire/y/1348246__1515266219.jpg"
+						}
+					},
+					{
+						"element": {
+							"id": "7852",
+							"name": "علي عبد الكريم",
+							"id_base": "1363949",
+							"proba": "0.0270256",
+							"description": "مطرب سعودي",
+							"valide_contrainte": "1",
+							"ranking": "248",
+							"pseudo": "none",
+							"picture_path": "partenaire/t/1363949__1372292592.jpg",
+							"corrupt": "1",
+							"relative": "0",
+							"award_id": "-1",
+							"flag_photo": "3",
+							"absolute_picture_path": "https://photos.clarinea.fr/BL_12_ar/partenaire/t/1363949__1372292592.jpg"
+						}
+					}
+				],
+				"NbObjetsPertinents": "3"
+			}
+		},
+		"constraints":{
+			"percentage_list":97,
+			"nb_max_questions":79,
+			"max_questions_before_prop":25,
+			"question_gap_between_prop":5,
+			"width_max_photo":246,
+			"height_max_photo":294
+		}
+
+]
+

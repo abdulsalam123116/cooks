@@ -1,0 +1,44 @@
+{
+	"completion": "OK",
+	"parameters": {
+		"elements": [
+			{
+				"element": {
+					"id": "5532",
+					"name": "Everything",
+					"id_base": "60423",
+					"proba": "0.965935",
+					"description": "Everything that exists",
+					"valide_contrainte": "1",
+					"ranking": "8",
+					"pseudo": "YAHYAH",
+					"picture_path": "partenaire/b/60423__1614354920.jpg",
+					"corrupt": "1",
+					"relative": "0",
+					"award_id": "-1",
+					"flag_photo": "2",
+					"absolute_picture_path": "https://photos.clarinea.fr/BL_48_en/600/partenaire/b/60423__1614354920.jpg"
+				}
+			},
+			{
+				"element": {
+					"id": "2157",
+					"name": "A vehicle",
+					"id_base": "7792",
+					"proba": "0.0207419",
+					"description": "General",
+					"valide_contrainte": "1",
+					"ranking": "11",
+					"pseudo": "sniper508_1",
+					"picture_path": "partenaire/s/7792__1399069152.png",
+					"corrupt": "1",
+					"relative": "0",
+					"award_id": "-1",
+					"flag_photo": "2",
+					"absolute_picture_path": "https://photos.clarinea.fr/BL_48_en/partenaire/s/7792__1399069152.png"
+				}
+			}
+		],
+		"NbObjetsPertinents": "2"
+	}
+}

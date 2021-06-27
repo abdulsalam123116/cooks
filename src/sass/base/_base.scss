@@ -1,0 +1,23 @@
+@import "variables";
+@font-face {
+  font-family: 'Rajdhani';
+  src: url(Rajdhani-Light.ttf) format('truetype');
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: $color-light-grey;
+  font-family: 'Rajdhani', sans-serif;
+  color: $color-white;
+
+}
+.backgroundMain{
+  right: 0;
+  min-width: 100%;
+  min-height: 220%;
+}
